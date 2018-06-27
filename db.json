@@ -1,0 +1,92 @@
+{
+    "schedule": [
+        {
+            "activityId": "6001_206384400",
+            "assignmentID": "6006001",
+            "assignmentNumber": "E6001",
+            "employeeId": "6001",
+            "fusionPersonId": "606001",
+            "employeeFirstName": "Juan",
+            "employeeLastName": "Manuel",
+            "primarySkill": "Checkout Operators",
+            "managerId": "6000",
+            "managerFirstName": "Bob",
+            "managerLastName": "Dylan",
+            "activityType": "WORK_PERIOD",
+            "startDate": "2018-06-27T17:00:00.000+00:00",
+            "endDate": "2018-06-27T22:00:00.000+00:00",
+            "premiumBreak": null,
+            "standardBreak": "00:15",
+            "breakDuration": "00:15",
+            "contractedDuration": null,
+            "flexWorker": "true",
+            "protectedPremium": null,
+            "actualStartDate": null,
+            "actualEndDate": null,
+            "paidStartDate": null,
+            "paidEndDate": null,
+            "jdaAvailable": "true",
+            "lastClockTime": null,
+            "clockType": null,
+            "scheduleChangeStatus": null,
+            "source": "AWS",
+            "activityCode": "CREATE",
+            "activityClass": "EXTRA",
+            "activityStatus": "ASSIGN",
+            "activityDuration": "4:45",
+            "activityDurationMetric": "Hrs",
+            "departmentName": "Checkout Operators",
+            "departmentList": [
+                {
+                    "departmentName": "Checkout Operators",
+                    "startDate": "2018-06-27T17:00:00.000+00:00",
+                    "endDate": "2018-06-27T22:00:00.000+00:00"
+                }
+            ]
+        },
+        {
+            "activityId": "6001_206352000",
+            "assignmentID": "6006001",
+            "assignmentNumber": "E6001",
+            "employeeId": "6001",
+            "fusionPersonId": "606001",
+            "employeeFirstName": "Juan",
+            "employeeLastName": "Manuel",
+            "primarySkill": "Checkout Operators",
+            "managerId": "6000",
+            "managerFirstName": "Bob",
+            "managerLastName": "Dylan",
+            "activityType": "WORK_PERIOD",
+            "startDate": "2018-06-27T08:00:00.000+00:00",
+            "endDate": "2018-06-27T16:00:00.000+00:00",
+            "premiumBreak": null,
+            "standardBreak": "01:00",
+            "breakDuration": "01:00",
+            "contractedDuration": null,
+            "flexWorker": "true",
+            "protectedPremium": null,
+            "actualStartDate": null,
+            "actualEndDate": null,
+            "paidStartDate": null,
+            "paidEndDate": null,
+            "jdaAvailable": "true",
+            "lastClockTime": null,
+            "clockType": null,
+            "scheduleChangeStatus": null,
+            "source": "AWS",
+            "activityCode": "NORMAL",
+            "activityClass": "ORIGIN",
+            "activityStatus": "ASSIGN",
+            "activityDuration": "7:00",
+            "activityDurationMetric": "Hrs",
+            "departmentName": "Checkout Operators",
+            "departmentList": [
+                {
+                    "departmentName": "Checkout Operators",
+                    "startDate": null,
+                    "endDate": null
+                }
+            ]
+        }
+    ]
+}
